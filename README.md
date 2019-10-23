@@ -6,7 +6,8 @@ Network Utility <p>
 
 ## Goal
  * 기본적인 네트워크 프로토콜 제공
- 
+ * Sample Image는 기능확인용 자료
+ * Sample Image/Code에서 사용한 Scapy라이브러리는 최종에서는 사용 X
 
 
 ### 1. Ping
@@ -20,6 +21,9 @@ Network Utility <p>
  * Output Data
     * Ping Result
 
+ * Sample Image
+ ![Ping](./img/ping.png)
+ 
 
 ### 2. Traceroute
  * Default Output
@@ -31,7 +35,6 @@ Network Utility <p>
     
  * Output Data
     * Traceroute Result
-
 
 ### 3. WOL
  * Default Output
@@ -54,6 +57,8 @@ Network Utility <p>
  * Output Data
     * DNS Result
 
+ * Sample Image
+ ![DNS](./img/DNS.png)
 
 ### 5. ARP Request
  * Default Output
@@ -65,6 +70,9 @@ Network Utility <p>
     
  * Output Data
     * Target MAC Address
+    
+ * Sample Image
+ ![ARP](./img/ARP.png)
 
 
 ### 6. Port Scan
@@ -79,6 +87,9 @@ Network Utility <p>
  * Output Data
     * Port Scan Result ( Open / Closs )
     * Port Service Protocol
+    
+ * Sample Image
+ ![PortScan](./img/Port_SYN.png)
 
 ### 7. Whois
  * Input Data
@@ -86,4 +97,7 @@ Network Utility <p>
     
  * Output Data
     * Whois Result
+    
+ * Sample Image
+ ![WHOIS](./img/WHOIS_request.png)
 
